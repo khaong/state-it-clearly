@@ -1,0 +1,17 @@
+{
+  "name": "state-it-clearly",
+  "version": "1.0.0",
+  "description": "What am doing with state",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Boucher",
+  "license": "BSD",
+  "devDependencies": {
+    "expect": "^1.3.0",
+    "lodash": "^2.4.1",
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2"
+  }
+}
